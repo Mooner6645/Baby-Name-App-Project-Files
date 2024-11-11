@@ -78,7 +78,7 @@ def get_name_popularity():
 #Calculate rank in year by grouping babynames by 'year' and then 'sex'
 #Then calculate the rank() of 'count' where ascending=False
 
-
+#do this shit idk
 
 
 
